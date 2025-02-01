@@ -4,6 +4,7 @@
 1. Clone the repo:
 ```sh
 $ git clone https://github.com/rahg0/python-weather-app.git
+$ cd python-weather-app
 ```
 
 2. Install all the packages as per requirements.txt:
